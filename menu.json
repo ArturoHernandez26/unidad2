@@ -1,0 +1,209 @@
+{
+"items":[
+        {
+            "category":"Postres",
+            "items":[
+                {
+                    "name": "pastel",
+                    "description":"pastel de chocolate",
+                    "price":"$150.00",
+                    "image":"img/1.jpg"
+                },
+                {
+                    "name": "pastel de vainilla",
+                    "description":"pastel de vainilla con relleno de pastel de fresa",
+                    "price":"$150.00",
+                    "image":"img/2.jpg"
+                },
+                {
+                    "name": "pan con crema",
+                    "description":"pan con crema dulce encima",
+                    "price":"$150.00",
+                    "image":"img/3.jpg"
+                },
+                {
+                    "name": "yogurt",
+                    "description":"yogurt con fruta encima.",
+                    "price":"$150.00",
+                    "image":"img/4.jpg"
+                },
+                {
+                    "name": "flan ",
+                    "description":"flan de vainilla con decoracion de fresa",
+                    "price":"$150.00",
+                    "image":"img/5.jpg"
+                },
+                {
+                    "name": "pastelillo ",
+                    "description":"pastelillo de chocolate con decoraciones de nuez",
+                    "price":"$150.00",
+                    "image":"img/6.jpg"
+                }
+            ]
+        },
+        {
+            "category":"Comidas/aperitivos",
+            "items":[
+                {
+                    "name": "empanadas",
+                    "description":"empanadas rellenas de pescado",
+                    "price":"$150.00",
+                    "image":"img/7.jpg"
+                },
+                {
+                    "name": "camarones",
+                    "description":"orden de 9 camarones",
+                    "price":"$150.00",
+                    "image":"img/8.jpg"
+                },
+                {
+                    "name": "trosos de pan",
+                    "description":"trosos de pan rellenos de queso.",
+                    "price":"$150.00",
+                    "image":"img/9.jpg"
+                },
+                {
+                    "name": "pedazos de pan tostado",
+                    "description":"pedazos de pan tostado rellenos de carne",
+                    "price":"$150.00",
+                    "image":"img/10.jpg"
+                },
+                {
+                    "name": "pollo",
+                    "description":"pedazos de pollo",
+                    "price":"$150.00",
+                    "image":"img/11.jpg"
+                },
+                {
+                    "name": "brocheta",
+                    "description":"brocheta de carne,pollo y pescado",
+                    "price":"$150.00",
+                    "image":"img/12.jpg"
+                }
+            ]
+        },
+        {
+            "category":"Desayuno",
+            "items":[
+                {
+                    "name": "huevo al comal",
+                    "description":"huevo al comal con tortilla picadad y revuelta con salsa",
+                    "price":"$150.00",
+                    "image":"img/13.jpg"
+                },
+                {
+                    "name": "emparedado ",
+                    "description":"emparedado con tocino huevo y queso",
+                    "price":"$150.00",
+                    "image":"img/14.jpg"
+                },
+                {
+                    "name": "huevo con tocino",
+                    "description":"huevo con tocino,hotcakes y pan tostado.",
+                    "price":"$150.00",
+                    "image":"img/15.jpg"
+                },
+                {
+                    "name": "pan tostado",
+                    "description":"pan tostado con mermelada y cafe",
+                    "price":"$150.00",
+                    "image":"img/16.jpg"
+                },
+                {
+                    "name": "waffles",
+                    "description":"orden de 3 waffles con frutas encima",
+                    "price":"$150.00",
+                    "image":"img/17.jpg"
+                },
+                {
+                    "name": "huevo con quesadillas",
+                    "description":"huevo con quesadillas,aguacate y tomate",
+                    "price":"$150.00",
+                    "image":"img/18.jpg"
+                }
+            ]
+        },
+        {
+            "category":"Almuerzos",
+            "items":[
+                {
+                    "name": "ensalada",
+                    "description":"ensalada con lechuga,cebolla y tomate",
+                    "price":"$150.00",
+                    "image":"img/19.jpg"
+                },
+                {
+                    "name": "arroz",
+                    "description":"arroz,ensalada,aguacate,carne molida y platano",
+                    "price":"$150.00",
+                    "image":"img/20.jpg"
+                },
+                {
+                    "name": "ensalda con pollo",
+                    "description":"ensalda con pollo,lechuga y tomate y cebolla",
+                    "price":"$150.00",
+                    "image":"img/21.jpg"
+                },
+                {
+                    "name": "carne con papas",
+                    "description":"carne con papas y ensalada",
+                    "price":"$150.00",
+                    "image":"img/22.jpg"
+                },
+                {
+                    "name": "carne con frijoles",
+                    "description":"carne con frijoles, platano frito,bolas de arroz y papas",
+                    "price":"$150.00",
+                    "image":"img/23.jpg"
+                },
+                {
+                    "name": "pollo",
+                    "description":"pollo con arroz",
+                    "price":"$150.00",
+                    "image":"img/24.jpg"
+                }
+            ]
+        },
+        {
+            "category":"Bebidas",
+            "items":[
+                {
+                    "name": "bebida gaseosa de fresa",
+                    "description":"bebida gaseosa de fresa",
+                    "price":"$150.00",
+                    "image":"img/25.jpg"
+                },
+                {
+                    "name": "bebida alcholica",
+                    "description":"bebida alcholica con coca",
+                    "price":"$150.00",
+                    "image":"img/26.jpg"
+                },
+                {
+                    "name": "bebida gaseosa",
+                    "description":"bebida gaseosa seleccionable",
+                    "price":"$150.00",
+                    "image":"img/27.jpg"
+                },
+                {
+                    "name": "limonada",
+                    "description":"limonada dulce",
+                    "price":"$150.00",
+                    "image":"img/28.jpg"
+                },
+                {
+                    "name": "te",
+                    "description":"te de sabor seleccionable",
+                    "price":"$150.00",
+                    "image":"img/29.jpg"
+                },
+                {
+                    "name": "limodada amarga",
+                    "description":"limodada amarga con agua mineral",
+                    "price":"$150.00",
+                    "image":"img/30.jpg"
+                }
+            ]
+        }
+    ]
+}
