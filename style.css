@@ -1,0 +1,36 @@
+body {
+    background-color: red;
+
+}
+.digitama {
+    width: 260px;
+    height: 190px;
+    position: absolute;
+    top: 290px;
+    left: 104px;
+    
+}
+button {
+    width: 80px;
+    height: 80px;
+    background-color: salmon;
+    border-color: rgb(17, 0, 255);
+    border-radius: 50px;
+    position: absolute;
+    left: 680px;
+    top: 350px;
+}
+.placeholder {
+    width: 130px;
+    height: 130px;
+    position: absolute;
+    top: 320px;
+    left: 460px;
+    font-size: 25px;
+    font-family: fantasy;
+    border-radius: 10px;
+    background-color: transparent;
+    text-align: center;
+    text-shadow: 1px;
+
+}
